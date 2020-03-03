@@ -1,0 +1,12 @@
+Package: tissans
+Type: Package
+Title: Download files from TISS-ANS
+Description: Downloads data files (ZIP format) from ANS (Agência Nacional de Saúde Suplementar) and imports the files for use.
+Version: 0.1.0
+Depends:
+	R (>=3.3.0)
+Author: Gabriel Bazo <bazot3@gmail.com>
+Maintainer: Gabriel Bazo <bazot3@gmail.com>
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
